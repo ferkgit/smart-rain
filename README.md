@@ -27,7 +27,8 @@
    ```
 
 ## Smoke Tests
-Run basic smoke tests to ensure the portal builds and the integrations respond:
+Run the smoke test suite to verify key features such as KPI cards, lead geolocation, route creation, depot start, and price-list existence:
+
 ```bash
 npm test
 ```
