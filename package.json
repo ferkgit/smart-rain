@@ -1,0 +1,18 @@
+{
+  "name": "smart-rain",
+  "version": "1.0.0",
+  "description": "- Centralizes rainfall data and reporting to help users make informed water management decisions. - Provides a unified interface for administrators to manage content and commerce data.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
