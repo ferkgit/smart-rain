@@ -1,0 +1,19 @@
+{
+  "name": "smart-rain",
+  "version": "1.0.0",
+  "description": "- Centralizes rainfall data and reporting to help users make informed water management decisions. - Provides a unified interface for administrators to manage content and commerce data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.4"
+  }
+}
